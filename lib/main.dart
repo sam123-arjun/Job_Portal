@@ -17,7 +17,7 @@ class JobPortalApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
-      title: 'JobKaro',
+      title: 'CareerOrbit',
       theme: AppTheme.darkTheme,
       routerConfig: appRouter,
       debugShowCheckedModeBanner: false,

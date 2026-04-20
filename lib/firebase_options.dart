@@ -63,7 +63,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '890277765700',
     projectId: 'my-job-portal-07110',
     storageBucket: 'my-job-portal-07110.firebasestorage.app',
-    iosBundleId: 'com.example.agJobportal',
+    iosBundleId: 'com.careerorbit.app',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
@@ -72,7 +72,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '890277765700',
     projectId: 'my-job-portal-07110',
     storageBucket: 'my-job-portal-07110.firebasestorage.app',
-    iosBundleId: 'com.example.agJobportal',
+    iosBundleId: 'com.careerorbit.app',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
