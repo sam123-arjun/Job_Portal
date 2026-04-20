@@ -30,7 +30,7 @@ Implemented **unsigned Cloudinary uploads** directly from the Flutter client. Th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Siddhesh100711/Job_Portal.git
+   git clone https://github.com/sam123-arjun/Job_Portal.git
    ```
 
 2. Navigate to the project directory:
